@@ -19,9 +19,9 @@ function Header() {
           <OlxLogo></OlxLogo>
         </div>
         <div className="placeSearch">
-          {/* <Search></Search> */}
+          <Search></Search>
           <input type="text" />
-          {/* <Arrow></Arrow> */}
+          <Arrow></Arrow>
         </div>
         <div className="productSearch">
           <div className="input">
